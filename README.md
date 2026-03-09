@@ -6,7 +6,7 @@
 
 ### 👋 Hi there!
 
-I'm **Silviu**, a 19-year-old **web developer** and **CEO** at **[@vestersro](https://github.com/vestersro)**.  
+I'm **Silviu**, a 20-year-old **web developer** and **CEO** at **[@vestersro](https://github.com/vestersro)**.  
 With over **6 years of coding experience**, I’m passionate about crafting fast, modern, and visually appealing web applications.
 
 ---
@@ -25,7 +25,7 @@ Timișoara, Romania | *2020 – 2024*
 
 ### 🧠 About Me
 
-- 💻 Passionate about **web development**, **UI/UX**, and **startups**.  
+- 💻 Interested in **web development**, **UI/UX**, and **startups**.  
 - 🚀 Always experimenting with new frameworks and tools.  
 - 🌍 Open to collaboration on innovative projects.  
 - 🎯 Focused on writing **clean, efficient, and scalable code**.
