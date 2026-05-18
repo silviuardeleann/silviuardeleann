@@ -29,5 +29,3 @@ Timișoara, Romania | *2024 – Present*
 - **“Vlad Țepeș” Theoretical High School**  
 **High School Diploma** – *Philology Profile*  
 Timișoara, Romania | *2020 – 2024*
-
----
